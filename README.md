@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [ridhikgovind.netlify.app](ridhikgovind.netlify.app)
+-  [ridhikgovind.netlify.app](ridhikgovind.netlify.app)
 
 - 💬 Ask me beginner questions about **HTML | CSS | JS | Node.js**
 
