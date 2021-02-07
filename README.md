@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ridhik Govind</h1>
-<h3 align="center">Building things from scratch that work.. Eventually !</h3>
+<h3 align="center">Building things from scratch that work.. Eventually !</h3>  
+
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
 
 - 🌱 I’m currently learning **React.js**
 
