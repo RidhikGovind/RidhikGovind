@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ridhik Govind</h1>
+<h1 align="center">Hi 👋, I'm Ridhik Govind</h1>  
 <h3 align="center">Building things from scratch that work.. Eventually !</h3>  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ridhikgovind/)](https://www.linkedin.com/in/ridhikgovind/)
@@ -25,6 +25,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhikgovind&layout=compact&hide=html" alt="ridhikgovind" /></p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ridhikgovind&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhikgovind&hide=TeX&layout=compact)
   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
