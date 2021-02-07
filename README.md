@@ -25,14 +25,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
  
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhikgovind&layout=compact&hide=html" alt="ridhikgovind" /></p>
-
-<p align="center">
-<a href="https://codepen.io/ridz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ridz" height="30" width="30" /></a>
-<a href="https://twitter.com/@fluffyridz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@fluffyridz" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/ridhikgovind" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ridhikgovind" height="30" width="30" /></a>
-</p>  
-
+  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
