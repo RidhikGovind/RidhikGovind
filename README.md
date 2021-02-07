@@ -7,7 +7,7 @@
 
 - 💬 Ask me beginner questions about **HTML | CSS | JS | Node.js**
 
-    #### Languages and tools that I like to work with:
+   #### Languages and tools that I like to work with:
 
 <br />
 
