@@ -2,8 +2,9 @@
 <h3 align="center">Building things from scratch that work.. Eventually !</h3>  
 
 [![Linkedin Badge](https://img.shields.io/badge/-ridhikgovind-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ridhikgovind/)](https://www.linkedin.com/in/ridhikgovind/)
-[![Twitter Badge](https://img.shields.io/badge/-fluffyRidz-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/fluffyRidz)](https://twitter.com/fluffyRidz)
+[![Twitter Badge](https://img.shields.io/badge/-@fluffyRidz-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/fluffyRidz)](https://twitter.com/fluffyRidz)
 [![Twitter Badge](https://img.shields.io/badge/-ridhikgovind-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/ridhikgovind)](https://dev.to/ridhikgovind)
+[![Codepen Badge](https://img.shields.io/badge/-RidhikGovind-25272D?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/RidhikGovind)](https://codepen.io/RidhikGovind)
 
 - 🌱 I’m currently learning **React.js**
 
