@@ -7,7 +7,7 @@
 
 - 💬 Ask me beginner questions about **HTML | CSS | JS | Node.js**
 
-<h3>Languages and tools that I work with</h3>
+<h4>Languages and tools that I work with:</h4>
 
 <br />
 
