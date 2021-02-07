@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/RidhikGovind/RidhikGovind/master/wave.gif" width="30px">, I'm Ridhik Govind</h1>  
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/RidhikGovind/RidhikGovind/master/wave.gif" width="30px"> I'm Ridhik Govind</h1>  
 <h3 align="center">Building things from scratch that work.. Eventually !</h3>  
 <h4 align="center">Lil intro: Fell in love with design and code when I first saw a web app that was beautifully designed and tried to replicate it.</br><span>Rest is history</span></h4>
 
