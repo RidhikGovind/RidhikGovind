@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ridhik Govind</h1>  
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/RidhikGovind/RidhikGovind/master/wave.gif" width="30px">, I'm Ridhik Govind</h1>  
 <h3 align="center">Building things from scratch that work.. Eventually !</h3>  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ridhikgovind/)](https://www.linkedin.com/in/ridhikgovind/)
