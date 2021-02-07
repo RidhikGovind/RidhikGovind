@@ -5,11 +5,12 @@
 
 -  You can find my portfolio at -> [ridhikgovind.netlify.app](https://ridhikgovind.netlify.app)
 
-- 💬 Ask me beginner questions about **HTML | CSS | JS | Node.js**
+- 💬 Ask me beginner questions about **HTML | CSS | JS | Node.js**  
+<br />
 
  #### Languages and tools that I like to work with:
 
-<br />
+
 
 <p align="left"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="reactjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </p>
 
