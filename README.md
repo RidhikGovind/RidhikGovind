@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/RidhikGovind/RidhikGovind/master/wave.gif" width="30px">, I'm Ridhik Govind</h1>  
 <h3 align="center">Building things from scratch that work.. Eventually !</h3>  
-<h4 align="center">Lil intro: Fell in love with design and code when I first saw an web app that was beautifully designed and I tried to replicate it.</br><span>Rest is history</span></h4>
+<h4 align="center">Lil intro: Fell in love with design and code when I first saw a web app that was beautifully designed and I tried to replicate it.</br><span>Rest is history</span></h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ridhikgovind/)](https://www.linkedin.com/in/ridhikgovind/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/fluffyRidz)](https://twitter.com/fluffyRidz)
