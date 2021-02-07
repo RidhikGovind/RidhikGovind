@@ -33,4 +33,6 @@
 <a href="https://codepen.io/ridz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ridz" height="30" width="30" /></a>
 <a href="https://twitter.com/@fluffyridz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@fluffyridz" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/ridhikgovind" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ridhikgovind" height="30" width="30" /></a>
-</p>
+</p>  
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
