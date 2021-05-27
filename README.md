@@ -6,6 +6,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/fluffyRidz)](https://twitter.com/fluffyRidz)
 [![Dev.to Badge](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/ridhikgovind)](https://dev.to/ridhikgovind)
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-25272D?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/RidhikGovind)](https://codepen.io/RidhikGovind)
+[![Dribbble Badge](https://img.shields.io/badge/-Dribble-ff69b4?style=flat-square&logo=Dribbble&logoColor=ffffff&link=https://dribbble.com/RidzGovind)](https://dribbble.com/RidzGovind)
+[![Pexels Badge](https://img.shields.io/badge/-Pexels-05A081?style=flat-square&logo=Pexels&logoColor=ffffff&link=https://www.pexels.com/@ridhik-govind-2614717)](https://www.pexels.com/@ridhik-govind-2614717)
 
 - 🌱 I’m currently learning **React.js** & **Node.js**
 
